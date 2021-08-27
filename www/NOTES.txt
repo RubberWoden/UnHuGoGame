@@ -1,0 +1,79 @@
+NOTES
+#####################################################################################################
+
+STATE CATEGORIES
+
+Poison
+Sense
+Special Buff
+Special Debuff
+
+#####################################################################################################
+
+Custom Class Params
+base stat array 6/6/7/7/8/8
+hp/mp 10/18 or 11/16 or 12/14
+
+#####################################################################################################
+
+
+Homunculs Attributes
+
+**************************************************************************************
+
+Family
+---------------------------------------------------------------
+Arthopod
+Aquatic
+Avian
+Beast
+Kami
+Dragon
+Elemental
+Fae
+Nature
+
+>		>		>
+Arthopod	Beast		Avian
+Aquatic 	Nature		Kami
+Dragon		Elemental	Fae
+
+
+**************************************************************************************
+
+Types
+
+----------------------------------------------------------------
+
+	Immune	Resist		Weak		S.Weak
+Fire	Fire	Earth, Elec	Water, Wind	Ice
+
+Ice	Ice	Water, Wind	Earth, Elec	Fire
+
+Water	Water	Earth, Ice	Fire, Wind	Elec
+
+Thunder	Elec	Fire, Wind	Earth, Ice	Water
+
+Earth	Earth	Fire, Water	Elec, Ice	Wind
+
+Wind	Wind	Elec, Ice	Fire, Water	Earth
+
+
+**************************************************************************************
+SKILLS
+Arthropod 20
+aquatic 30
+avian 40
+beast 50
+kami 60
+dragon 70
+elemental 80
+fae 90
+flora 100
+fire 110
+water 120
+ice 130
+thunder 140
+earth 150
+wind 160
+neutrals 170
